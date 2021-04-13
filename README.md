@@ -1,5 +1,5 @@
 # Pitch_Release
-This repository contains the code and data sets used to analyze trends between pitch release points and injury.
+This repository contains the code and data sets used to analyze trends between changes in pitch release points and injury.
 
 The data was collected from Baseball Savant, which uses the Statcast tracking system.
     -https://baseballsavant.mlb.com/

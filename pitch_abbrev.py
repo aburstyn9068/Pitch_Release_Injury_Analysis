@@ -12,7 +12,9 @@ pitch_abbrev = {
     "SL": "Slider",
     "FS": "Splitter",
     "FT": "Two-Seam Fastball",
-    "FF": "Four-Seam Fastball"
+    "FF": "Four-Seam Fastball",
+    "PO": "Pitchout",
+    "IN": "Intentional Ball"
 }
 
 # https://www.mlb.com/glossary/pitch-types
