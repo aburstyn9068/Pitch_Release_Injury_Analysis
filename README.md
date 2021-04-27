@@ -14,9 +14,9 @@ release_pos_z: Vertical Release Position of the ball measured in feet from the c
 release_pos_y: Release position of pitch measured in feet from the catcher's perspective.
     -https://baseballsavant.mlb.com/statcast_search
     
-The means of the pitch release point in the each plane for each type of pitch was analyzed for a given time period. Linear regression analysis was used to compare the trends.
+The means of the pitch release point in the each plane for each type of pitch were analyzed for a given time period. Linear regression analysis was used to compare the trends.
 
-A similar trend of change in the x-axis rlease point was found in two of the pitchers.  Examining these patterns in a pitcher may give insight into thier risk of injury. While it was noted that there was a similar trend in two of the players, this is not enough evidnece to determine a cause and effect relationship to determine injury probability. Further invesitgation into more players may result in a more predictable pattern.
+A similar trend of change in the x-axis release point leadig up to injury was found in two of the pitchers. Examining these patterns in a pitcher may give insight into thier risk of injury. While it was noted that there was a similar trend in two of the players, this is not enough evidnece to determine a cause and effect relationship to determine injury probability. Further invesitgation into more players may result in a more predictable pattern.
 
 Limitations:
 The main limitation in this investigation is the lack of access to information. Outside variables such as workout protocols/volumes and injury status (a player playing through an injury) are unkown. Another unkown varaible that can alter the pitch release point would be a player changing thier technqiue/mechanics.
