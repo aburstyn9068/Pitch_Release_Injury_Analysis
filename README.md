@@ -18,6 +18,10 @@ The means of the pitch release point in the each plane for each type of pitch wa
 
 A similar trend of change in the x-axis rlease point was found in two of the pitchers.  Examining these patterns in a pitcher may give insight into thier risk of injury. While it was noted that there was a similar trend in two of the players, this is not enough evidnece to determine a cause and effect relationship to determine injury probability. Further invesitgation into more players may result in a more predictable pattern.
 
+Graphs depicting the cahnges in pitch release points over time can be seen here:
+![Image 1](/Graphs/graph1.png)
+![Image 1](/Graphs/graph2.png)
+
 Limitations:
 The main limitation in this investigation is the lack of access to information. Outside variables such as workout protocols/volumes and injury status (a player playing through an injury) are unkown. Another unkown varaible that can alter the pitch release point would be a player changing thier technqiue/mechanics.
 The small sample size of this investigation limits its ability to make broad conclusions.
